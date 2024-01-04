@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.btn.hovered {
+    /* Your styles when button is hovered */
+    /* background-color: #6cb2eb; */
+  }
